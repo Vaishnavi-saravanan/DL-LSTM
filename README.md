@@ -1,4 +1,4 @@
-# DL- Developing a Deep Learning Model for NER using LSTM
+![image](https://github.com/user-attachments/assets/3d4d71af-a236-4f91-8ed4-2f0199237d23)# DL- Developing a Deep Learning Model for NER using LSTM
 
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
@@ -248,11 +248,13 @@ for w_id, true_tag, pred_tag in zip(X_test[i], y_test[i], preds):
 
 ### Loss Vs Epoch Plot
 
-![image](https://github.com/user-attachments/assets/2d662603-2fd4-4303-a512-b06b155a274b)
+![image](https://github.com/user-attachments/assets/62b3537a-8af2-44ee-837b-bdf0cd984b85)
+
 
 ### Sample Text Prediction
 
-![image](https://github.com/user-attachments/assets/7a27684d-b55c-4de7-a684-e221972d7657)
+![image](https://github.com/user-attachments/assets/0e044747-73d0-40d5-a8d7-fdddc71da26c)
+
 
 ## RESULT
 
