@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3d4d71af-a236-4f91-8ed4-2f0199237d23)# DL- Developing a Deep Learning Model for NER using LSTM
+# DL- Developing a Deep Learning Model for NER using LSTM
 
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
