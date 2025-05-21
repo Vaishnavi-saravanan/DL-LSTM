@@ -29,9 +29,10 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ## PROGRAM
 
-### Name: SHYAM S
+### Name: VAISHNAVI S
 
-### Register Number: 212223240156
+### Register Number: 21222230165
+
 
 ```python
 import pandas as pd
